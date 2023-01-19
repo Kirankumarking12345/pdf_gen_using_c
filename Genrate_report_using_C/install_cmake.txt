@@ -1,0 +1,9 @@
+cmake .
+cmake
+
+
+-to execute the pdf
+gcc pdf_gen.c -lhpdf -o pdf_gen 
+
+
+600 X 840
